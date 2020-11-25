@@ -1,5 +1,4 @@
 # mit6.006
-this course looks interesting..
 
 2020 May25 
 
