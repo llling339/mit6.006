@@ -4,8 +4,7 @@
 
 独居一个月了，非常快乐和充实的一段日子（很久没觉得这么开心了好像）。
 
-开始看不少网课 尽管很多在网上资源很全 打算有的放矢的再进行一些补充。
-
+This repo includes a list of online courses that I find interesting and will try to find some time to learn them.
 
 
 https://cs145-fa18.github.io
